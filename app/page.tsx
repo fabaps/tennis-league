@@ -137,7 +137,7 @@ export default function Home() {
             </h2>
             <p className="text-center mb-6">
               Al registrarte, tendrás acceso a 3 meses gratis de GTL a partir
-              del lanzamiento el 5 de marzo.
+              del lanzamiento el 15 de marzo.
             </p>
             <form className="space-y-4" onSubmit={handleSubmit}>
               <Input
