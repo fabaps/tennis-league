@@ -83,7 +83,7 @@ export default function Home() {
               Conecta, compite y disfruta del tenis como nunca antes
             </p>
             <p className="text-base md:text-lg mb-2">
-              Lanzamiento de plataforma: 5 de marzo
+              Lanzamiento de plataforma: 15 de marzo
             </p>
             <CountdownTimer targetDate="2025-03-05" />
             <Button
